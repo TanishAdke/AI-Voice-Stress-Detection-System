@@ -51,7 +51,7 @@ export default function Page() {
               <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_20%,rgba(34,211,238,0.14),transparent_38%),radial-gradient(circle_at_82%_25%,rgba(168,85,247,0.14),transparent_36%),radial-gradient(circle_at_50%_78%,rgba(244,63,94,0.1),transparent_40%)]" />
             </div>
 
-            <div className="absolute top-7 left-8 text-sm font-semibold text-white/90">Tejas AI</div>
+            <div className="absolute top-7 left-8 text-sm font-semibold text-white/90">AI Stress Detection and Analysis</div>
             <div className="absolute top-7 right-8 flex gap-2 items-end">
               {[18, 9, 14, 7, 16].map((h, i) => (
                 <motion.div

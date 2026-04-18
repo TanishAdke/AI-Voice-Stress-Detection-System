@@ -541,9 +541,10 @@ export default function StressDashboard({
                 <div className="text-sm text-white/75">Contact: +91 97637 92336</div>
               </div>
               <div className="rounded-xl bg-white/5 border border-white/10 p-4">
-                <div className="text-sm font-semibold text-white/90">Tanish adke</div>
-                <div className="mt-2 text-sm text-white/75">Contact: +91 70581 65469</div>
-                <div className="text-sm text-white/50">Team Member</div>
+                <div  className="text-sm font-semibold text-white/90">Tanish Adke</div>
+                <div className="mt-2 text-sm text-white/75">Email: tanishadke@gmail.com</div>
+                <div className="text-sm text-white/75">Contact: +91 70581 65469</div>
+                <div className="text-sm text-white/75">Team Member</div>
               </div>
             </div>
             <div className="mt-4 border-t border-white/10 pt-3 flex items-center justify-between">
